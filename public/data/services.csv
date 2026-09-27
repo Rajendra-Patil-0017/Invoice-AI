@@ -1,0 +1,14 @@
+service_id,service_name,category,description,unit_price,currency,billing_type,aliases
+WEB001,Business Website,Website Development,Custom responsive 5-page business website with React & modern styling,25000,INR,one-time,business website|company website|corporate website|static website|portfolio site
+WEB002,E-Commerce Platform,Website Development,Full online store with catalog product management and shopping cart,45000,INR,one-time,ecommerce|e-commerce|online store|e-commerce platform|shop setup
+WEB003,Web Application MVP,Website Development,Custom interactive web application MVP with responsive interface,60000,INR,one-time,web app|custom web application|saas mvp|custom portal
+DES001,UI/UX Design Package,UI/UX Design,Complete Figma wireframes user flows and high-fidelity prototypes,18000,INR,one-time,ui design|ux design|figma design|app design|wireframes|ui/ux
+DES002,Brand Identity & Logo,Branding,Vector logo design brand guide typography system and color palette,12000,INR,one-time,logo design|branding|brand identity|visual identity|corporate identity
+SEO001,SEO Optimization,Digital Marketing,Technical on-page SEO keyword research and Core Web Vitals optimization,8000,INR,monthly,seo|search engine optimization|seo optimization|google ranking|seo audit
+MKT001,Social Media Marketing,Digital Marketing,Monthly content creation graphics scheduling and social campaign management,15000,INR,monthly,social media|smm|instagram management|social media marketing
+MKT002,Google Ads Campaign,Digital Marketing,PPC setup campaign management ad copywriting and conversion tracking,10000,INR,monthly,google ads|ppc|adwords|paid ads|google advertising
+MAINT001,Website Maintenance,Maintenance,Monthly security updates continuous uptime monitoring and bug fixes,3500,INR,monthly,maintenance|website maintenance|website support|site maintenance|monthly maintenance
+MAINT002,Cloud & Hosting Support,Maintenance,Cloud server management SSL certificates and automated backups,5000,INR,monthly,hosting support|cloud hosting|server management|devops support|cloud setup
+DEV001,Payment Gateway Integration,Website Development,Secure checkout integration with Razorpay or Stripe with webhook handling,7500,INR,one-time,payment gateway|razorpay|stripe|payment integration|checkout integration
+CNT001,Content Writing & Copywriting,Content Services,Professional SEO-optimized sales and landing page copywriting,6000,INR,one-time,content writing|copywriting|website copywriting|landing page copy
+CNT002,Monthly Blog & Article Pack,Content Services,4 comprehensive SEO-optimized technical or marketing articles per month,8000,INR,monthly,blogs|articles|monthly blog pack|content marketing|blog posts
